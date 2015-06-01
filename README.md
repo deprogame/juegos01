@@ -1,4 +1,4 @@
 # juegos01
-Programacion de Videojuegos
-Proyecto de Programacion de videos juegos con C++ SFML 
+Programacion de videojuegos
+Proyecto de Programacion de videosjuegos con C++ SFML.
 
